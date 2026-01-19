@@ -1,2 +1,0 @@
-# pysf
-py_course
