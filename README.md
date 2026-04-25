@@ -1,5 +1,5 @@
 # python task
-**chest-null 3x3**
-**tbot exchange rate**
-**headhunter analysis**
-**headhunter resume analysis by SQL**
+**chest-null 3x3**  
+**tbot exchange rate**  
+**headhunter analysis**  
+**headhunter resume analysis by SQL**  
