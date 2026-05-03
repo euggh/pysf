@@ -9,10 +9,10 @@
 
 ### Установка зависимостей
 
-Для работы требуется установить следующие бибилиотеки python
-pip install streamlit
-pip install pandas
-pip install plotly
+Для работы требуется установить следующие бибилиотеки python  
+pip install streamlit  
+pip install pandas  
+pip install plotly  
 
 ### Запуск
 
